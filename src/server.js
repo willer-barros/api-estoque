@@ -60,5 +60,5 @@ app.delete("/produto/:id", async (req, res) =>{
 })
 
 app.listen(PORT, () =>{
-    console.log(`Api chupa-cabra rodando em: http://localhost:${PORT}`)
+    console.log(`👽666:Api chupa-cabra rodando em: http://localhost:${PORT}`)
 })

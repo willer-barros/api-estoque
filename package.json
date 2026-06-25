@@ -2,12 +2,13 @@
   "name": "api-estoque",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Willer Barros",
   "license": "ISC",
   "type": "module",
   "devDependencies": {
